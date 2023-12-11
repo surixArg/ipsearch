@@ -9,7 +9,7 @@ Esta herramienta le permite:
 * Conocer detalles técnicos sobre sus productos ya instalados (como el tipo de producto, versión de software, tipo de dispositivo, dirección IP, dirección MAC, etc.).
 * Establecer una dirección IP, máscara de subred, y puerta de enlace (gateway) para cada dispositivo encontrado, de manera individual.
 
-### ¿Cómo obtengo IP Search?
+### ¿Cómo utilizo IP Search?
 IP Search no requiere instalación: el programa ya incluye todo lo necesario para poder ejecutarse con normalidad. Simplemente debe descargarlo y estará listo.
 
 ### Notas
