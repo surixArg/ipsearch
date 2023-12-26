@@ -1,4 +1,4 @@
-# SURiX IP Search
+# [ENGLISH] SURiX IP Search
 [Click here](https://github.com/surixArg/ipsearch/releases/tag/v4.2.0) to download the latest version (4.2.0).
 
 ### What is IP Search?
@@ -18,7 +18,7 @@ This tool is proprietary to SURiX S.R.L.
 
 ---
 
-# SURiX IP Search
+# [ESPAÑOL] SURiX IP Search
 Haga [cick aquí](https://github.com/surixArg/ipsearch/releases/tag/v4.2.0) para ir a la última versión (4.2.0).
 
 ### ¿Qué es IP Search?
