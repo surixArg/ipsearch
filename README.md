@@ -19,7 +19,7 @@ This tool is proprietary to SURiX S.R.L.
 ---
 
 # [ESPAÑOL] SURiX IP Search
-Haga [cick aquí](https://github.com/surixArg/ipsearch/releases/tag/v4.2.0) para ir a la última versión (4.2.0).
+Haga [cick aquí](https://github.com/surixArg/ipsearch/releases/tag/v4.2.0) para descargar la última versión (4.2.0).
 
 ### ¿Qué es IP Search?
 IP Search es una herramienta creada para poder detectar productos SURiX conectados a su red local. Es especialmente útil a la hora de instalar nuevos productos que requieran ser adaptados a su infraestructura de red, o a la hora de reconfigurar equipos ya instalados.
