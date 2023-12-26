@@ -11,7 +11,8 @@ IP Search enables you to:
 * Set an individual IP address, subnet mask, and gateway for each discovered device.
 
 ### How do I use IP Search?
-IP Search requires no installation; the program comes complete with everything needed to run smoothly. Simply download it, and you'll be ready to go.
+IP Search requires no installation; the program comes complete with everything needed to run properly. Simply download it, and you'll be ready to go.
+**Warning:** To ensure proper functionality, run 'IP Search.exe' within the original product folder.
 
 ### Notes
 This tool is proprietary to SURiX S.R.L.
@@ -32,6 +33,8 @@ Esta herramienta le permite:
 
 ### ¿Cómo utilizo IP Search?
 IP Search no requiere instalación: el programa ya incluye todo lo necesario para poder ejecutarse con normalidad. Simplemente debe descargarlo y estará listo.
+**Advertencia:** Para un correcto funcionamiento, ejecute 'IP Search.exe' dentro de la carpeta original del producto.
+
 
 ### Notas
 Esta herramienta es propietaria de SURiX S.R.L.
