@@ -6,7 +6,7 @@ IP Search es una herramienta creada para poder detectar productos SURiX conectad
 
 ### ¿Qué puede hacer IP Search?
 Esta herramienta le permite:
-* Encontrar dispositivos SURIX en su red, incluso si están en un segmento de red distinto al cual usted está conectado.
+* Encontrar dispositivos SURiX en su red, incluso si están en un segmento de red distinto al cual usted está conectado.
 * Conocer detalles técnicos sobre sus productos ya instalados (como el tipo de producto, versión de software, tipo de dispositivo, dirección IP, dirección MAC, etc.).
 * Establecer una dirección IP, máscara de subred, y puerta de enlace (gateway) para cada dispositivo encontrado, de manera individual.
 
