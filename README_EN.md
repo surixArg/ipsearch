@@ -1,5 +1,5 @@
 # SURiX IP Search
-[Click here](https://github.com/surixArg/ipsearch/releases/download/v4.2.0/IPSearch_Windows_x86-64.zip) to download the latest version (4.2.0).
+[Click here](https://github.com/surixArg/ipsearch/releases/download/v4.3.0/IPSearch4.3.0_Win_x86.zip) to download the latest version (4.3.0).
 
 ### What is IP Search?
 IP Search is a tool designed to help you locate SURiX devices within your local network. It proves especially useful during the installation of new devices or when the reconfiguration of existing products is necessary.
